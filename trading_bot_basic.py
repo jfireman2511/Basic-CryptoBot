@@ -4,7 +4,7 @@ import numpy as np
 import time
 
 # Define your CoinAPI.io API key
-API_KEY = 'A0E60EBB-322F-4006-B992-1E85C2468799'
+API_KEY = 
 
 # Define the CoinAPI.io base URL for historical data
 BASE_URL = 'https://rest.coinapi.io/v1/ohlcv'
