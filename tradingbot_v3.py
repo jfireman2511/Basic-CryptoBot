@@ -1,5 +1,5 @@
-API_KEY = 'ta5feyo5mRv1YRUCfdMXFEIRMSY9t907kCBlN9My9kRY8J8hewW9NBk2hdljU0CN'
-API_SECRET = 'GPug41ZpgbJvSlXiANyZUNDfGuXYBtZYqAXO5WQr'
+API_KEY = 
+API_SECRET = 
 
 import pandas as pd
 from wazirx_sapi_client.rest import Client
